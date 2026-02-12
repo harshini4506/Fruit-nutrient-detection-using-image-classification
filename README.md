@@ -138,21 +138,3 @@ Fruits were filmed at the dates given below (YYYY.MM.DD):
 2021.09.22 - Apple 6, Cucumber 3.
 
 2023.12.30 - Official Github repository is now [Fruits-360 on Github](https://github.com/fruits-360)
-
-## License ##
-
-CC BY-SA 4.0
-
-Copyright (c) 2017-, [Mihai Oltean](https://mihaioltean.github.io)
-
-You are free to:
-
-*Share* — copy and redistribute the material in any medium or format for any purpose, even commercially.
-
-*Adapt* — remix, transform, and build upon the material for any purpose, even commercially.
-
-Under the following terms:
-
-*Attribution* — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
-*ShareAlike* — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
